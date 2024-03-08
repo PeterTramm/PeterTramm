@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<img src="https://github.com/PeterTramm/PeterTramm/blob/main/assests/Ponyo.gif" align="right" />
+<img src="https://github.com/PeterTramm/PeterTramm/blob/trial/assests/Ponyo.gif" align="right" />
 
 <p align="center">
   <img src="https://github.com/PeterTramm/PeterTramm/blob/main/assests/Ponyo.gif" alt="animated" />
