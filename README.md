@@ -18,7 +18,7 @@
 </pre>
 
 <br><br>
-![](https://github.com/PeterTramm/PeterTramm/blob/main/assests/Typing.gif)
+<img src="https://github.com/PeterTramm/PeterTramm/blob/trial/assests/Typing.gif" width="25%" align="centre" />
 <br><br><br>
     
 </div>
