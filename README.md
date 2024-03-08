@@ -2,7 +2,9 @@
 
 <!--
 **PeterTramm/PeterTramm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
+-->
+
+
 
 <div align="center">
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
@@ -15,7 +17,7 @@
 </pre>
 
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://raw.githubusercontent.com/PeterTramm/PeterTramm/master/assets/Typing_gif.gif" height="40" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
