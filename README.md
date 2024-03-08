@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **PeterTramm/PeterTramm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -20,5 +18,6 @@
 <br><br>
 <img src="https://github.com/PeterTramm/PeterTramm/blob/main/assests/Typing.gif" width="25%" align="centre" />
 <br><br><br>
-    
+
+[![](https://img.shields.io/badge/linkedin-0a66c2)](www.linkedin.com/in/peter-tram-621b6a1b9)
 </div>
