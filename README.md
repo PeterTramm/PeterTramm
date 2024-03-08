@@ -17,7 +17,7 @@
 </pre>
 
 <br><br>
-<img src="https://raw.githubusercontent.com/PeterTramm/PeterTramm/main/assets/Tpying_gif.gif" height="40" />
+<img src="https://raw.githubusercontent.com/PeterTramm/PeterTramm/main/assets/Typing.gif" height="40" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
