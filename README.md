@@ -17,6 +17,7 @@
 
 <br><br>
 <img src="https://github.com/PeterTramm/PeterTramm/blob/main/assests/Typing.gif" width="25%" align="centre" />
+<img src="https://www.credly.com/badges/2e39ab76-ea2a-41ec-8b57-7255fb2c0fd9" width="25%" align="centre">
 <br><br><br>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/peter-tram-621b6a1b9)
