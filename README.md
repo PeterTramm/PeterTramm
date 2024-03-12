@@ -17,7 +17,7 @@
 
 <br><br>
 <img src="https://github.com/PeterTramm/PeterTramm/blob/main/assests/Typing.gif" width="25%" align="centre" />
-<img src="https://github.com/PeterTramm/PeterTramm/blob/main/assests/Certificate.png" width="25%" align = "centre" />
+<img src="https://github.com/PeterTramm/PeterTramm/blob/macBranch/assests/Certificate.png" width="25%" align = "centre" />
 <br><br><br>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/peter-tram-621b6a1b9)
