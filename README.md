@@ -18,7 +18,8 @@
 <br><br>
 <!-- <img src="https://github.com/PeterTramm/PeterTramm/blob/main/assests/Typing.gif" width="10%" align="centre" /> -->
 <img src="https://github.com/PeterTramm/PeterTramm/blob/macBranch/assests/Certificate.png" width="50%" align = "centre" />
-<br>
-[![](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/peter-tram-621b6a1b9) <br>
-[![](https://img.shields.io/badge/Credly-FF5733)](https://www.credly.com/badges/2e39ab76-ea2a-41ec-8b57-7255fb2c0fd9)
+<br><br><br>
+
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/peter-tram-621b6a1b9)
+[![](https://img.shields.io/badge/Credly-8A2BE2)](https://www.credly.com/badges/2e39ab76-ea2a-41ec-8b57-7255fb2c0fd9)
 </div>
