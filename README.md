@@ -24,5 +24,11 @@
 
 </div>
 
+## [Victoria Car Accidents Analysis](https://github.com/PeterTramm/Car_Accidents) (Work in progress)
+> Diving into car accidents data to find trends and insights.
+
 ## [Supermarket dashboard](https://github.com/PeterTramm/Supermarket_dashboard) 
-> Using Tableau to create a dashboard of sales for a supermarket 
+> Using Tableau to create a dashboard of sales for a supermarket.
+
+## [Disasters in Australia](https://github.com/Sim0304/Project-4) (Planned for improvements)
+> Visualising disasters data in Australia into a dashboard for easy viewing. 
